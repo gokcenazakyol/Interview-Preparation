@@ -3,6 +3,7 @@
 ![1588080183299](https://github.com/gokcenazakyol/Interview-Preparation/assets/74296174/d029a035-edd5-47fc-814f-c6f200a1896f)
 
 | Resources |
+| ------------- |
 |[Leetcode - Top Interview 150](https://leetcode.com/studyplan/top-interview-150/)|
 
 
