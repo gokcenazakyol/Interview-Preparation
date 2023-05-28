@@ -2,9 +2,10 @@
 
 ![1588080183299](https://github.com/gokcenazakyol/Interview-Preparation/assets/74296174/d029a035-edd5-47fc-814f-c6f200a1896f)
 
-| Resources |
-| ------------- |
-|[Leetcode - Top Interview 150](https://leetcode.com/studyplan/top-interview-150/)|
+| Resources | Completed | 
+| ------------- | ------------- |
+|[Leetcode - Top Interview 150](https://leetcode.com/studyplan/top-interview-150/)| 6/150 |
+|[Algorithms by Abdul Bari](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)| 9/84 |
 
 
 
