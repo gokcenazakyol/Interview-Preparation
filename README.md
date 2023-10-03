@@ -4,6 +4,7 @@
 
 | Resources | Completed | 
 | ------------- | ------------- |
+| Leetcode - Arrays | 4/20 |
 |[Leetcode - Top Interview 150](https://leetcode.com/studyplan/top-interview-150/)| 9/150 |
 |[Algorithms by Abdul Bari](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)| 12/84 |
 
@@ -11,6 +12,10 @@
 
 | Questions | Completed | Category | Languages|
 | ------------- | ------------- | ------------- | ------------- |
+| [14-Plus One](https://leetcode.com/problems/plus-one/) |✅  | 📗Easy | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/14-PlusOne.png)|
+| [13-Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) |✅  | 📗Easy | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/13-ConvertSortedArrayToBinarySearchTree.png)|
+| [12-Search Insert Position](https://leetcode.com/problems/search-insert-position/) |✅  | 📗Easy | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/12-SearchInsertPosition.png)|
+| [11-Two Sum](https://leetcode.com/problems/two-sum/) |✅  | 📗Easy | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/11-TwoSum.png)|
 | [10-Jump Game 2](https://leetcode.com/problems/jump-game-ii/?envType=study-plan-v2&envId=top-interview-150) | ✅ | 📙Medium |[python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/10-JumpGame2.png) |
 | [9-Jump Game](https://leetcode.com/problems/jump-game/?envType=study-plan-v2&envId=top-interview-150) | ✅ | 📙Medium |[python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/9-JumpGame.png) |
 | [8-Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/?envType=study-plan-v2&envId=top-interview-150) | ✅ | 📙Medium | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/8-BestTimeToBuyAndSellStock2.png)|
