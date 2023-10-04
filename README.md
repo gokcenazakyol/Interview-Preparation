@@ -12,6 +12,14 @@
 
 | Questions | Completed | Category | Languages|
 | ------------- | ------------- | ------------- | ------------- |
+| [22-Summary Ranges](https://leetcode.com/problems/summary-ranges/) |✅  | 📗Easy | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/22-Summary%20Ranges.png)|
+| [21-Move Zeros](https://leetcode.com/problems/move-zeroes/) |✅  | 📗Easy | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/21-Move%20Zeros.png)|
+| [20-Missing Number](https://leetcode.com/problems/missing-number/) |✅  | 📗Easy | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/20-Missing%20Number.png)|
+| [19-Contains Duplicate 2](https://leetcode.com/problems/contains-duplicate-ii/) |✅  | 📗Easy | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/19-ContainsDuplicate%202.png)|
+| [18-Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) |✅  | 📗Easy | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/18-ContainsDuplicate.png)|
+| [17-Single Number](https://leetcode.com/problems/single-number/) |✅  | 📗Easy | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/17-Single%20Number.png)|
+| [16-Pascal's Triangle 2](https://leetcode.com/problems/pascals-triangle-ii/) |✅  | 📗Easy | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/16-Pascal's%20Triangle%202.png)|
+| [15-Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) |✅  | 📗Easy | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/15-Pascal's%20Triangle.png)|
 | [14-Plus One](https://leetcode.com/problems/plus-one/) |✅  | 📗Easy | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/14-PlusOne.png)|
 | [13-Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) |✅  | 📗Easy | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/13-ConvertSortedArrayToBinarySearchTree.png)|
 | [12-Search Insert Position](https://leetcode.com/problems/search-insert-position/) |✅  | 📗Easy | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/12-SearchInsertPosition.png)|
