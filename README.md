@@ -4,7 +4,7 @@
 
 | Resources | Completed | 
 | ------------- | ------------- |
-| Leetcode - Arrays | 4/20 |
+| Leetcode - Arrays | 12/20 |
 |[Leetcode - Top Interview 150](https://leetcode.com/studyplan/top-interview-150/)| 9/150 |
 |[Algorithms by Abdul Bari](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)| 12/84 |
 
