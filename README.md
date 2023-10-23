@@ -4,7 +4,7 @@
 
 | Resources | Completed | 
 | ------------- | ------------- |
-| Leetcode - Arrays | 12/20 |
+| Leetcode - Arrays | 15/20 |
 |[Leetcode - Top Interview 150](https://leetcode.com/studyplan/top-interview-150/)| 9/150 |
 |[Algorithms by Abdul Bari](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)| 12/84 |
 
@@ -12,6 +12,9 @@
 
 | Questions | Completed | Category | Languages|
 | ------------- | ------------- | ------------- | ------------- |
+| [25-Intersection of Two Arrays 2](https://leetcode.com/problems/intersection-of-two-arrays-ii/) |✅  | 📗Easy | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/25-Intersection%20of%20Two%20Arrays%202.png)|
+| [24-Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) |✅  | 📗Easy | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/24-Intersection%20of%20Two%20Arrays.png)|
+| [23-Range Sum Query](https://leetcode.com/problems/range-sum-query-immutable/) |✅  | 📗Easy | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/23-Range%20Sum%20Query.png)|
 | [22-Summary Ranges](https://leetcode.com/problems/summary-ranges/) |✅  | 📗Easy | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/22-Summary%20Ranges.png)|
 | [21-Move Zeros](https://leetcode.com/problems/move-zeroes/) |✅  | 📗Easy | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/21-Move%20Zeros.png)|
 | [20-Missing Number](https://leetcode.com/problems/missing-number/) |✅  | 📗Easy | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/20-Missing%20Number.png)|
