@@ -4,7 +4,7 @@
 
 | Resources | Completed | 
 | ------------- | ------------- |
-| Leetcode - Arrays | 15/20 |
+| Leetcode - Arrays | 18/20 |
 |[Leetcode - Top Interview 150](https://leetcode.com/studyplan/top-interview-150/)| 9/150 |
 |[Algorithms by Abdul Bari](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)| 12/84 |
 
@@ -12,6 +12,9 @@
 
 | Questions | Completed | Category | Languages|
 | ------------- | ------------- | ------------- | ------------- |
+| [28-Assign Cookies](https://leetcode.com/problems/assign-cookies/description/) |✅  | 📗Easy | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/28-Find%20Content%20Children.png)|
+| [27-Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) |✅  | 📗Easy | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/27-Find%20Disappeared%20Numbers.png)|
+| [26-Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/) |✅  | 📗Easy | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/26-Third%20Maximum%20Number.png)|
 | [25-Intersection of Two Arrays 2](https://leetcode.com/problems/intersection-of-two-arrays-ii/) |✅  | 📗Easy | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/25-Intersection%20of%20Two%20Arrays%202.png)|
 | [24-Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) |✅  | 📗Easy | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/24-Intersection%20of%20Two%20Arrays.png)|
 | [23-Range Sum Query](https://leetcode.com/problems/range-sum-query-immutable/) |✅  | 📗Easy | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/23-Range%20Sum%20Query.png)|
