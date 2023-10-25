@@ -12,7 +12,7 @@
 
 | Questions | Completed | Category | Languages|
 | ------------- | ------------- | ------------- | ------------- |
-| [29-Island Perimeter](https://leetcode.com/problems/island-perimeter/description/) |✅  | 📗Easy | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/28-Find%20Content%20Children.png)|
+| [29-Island Perimeter](https://leetcode.com/problems/island-perimeter/description/) |✅  | 📗Easy | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/29-Island%20Perimeter.png)|
 | [28-Assign Cookies](https://leetcode.com/problems/assign-cookies/description/) |✅  | 📗Easy | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/28-Find%20Content%20Children.png)|
 | [27-Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) |✅  | 📗Easy | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/27-Find%20Disappeared%20Numbers.png)|
 | [26-Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/) |✅  | 📗Easy | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/26-Third%20Maximum%20Number.png)|
