@@ -4,7 +4,7 @@
 
 | Resources | Completed | 
 | ------------- | ------------- |
-| Leetcode - Strings | 2/20 |
+| Leetcode - Strings | 5/20 |
 | Leetcode - Arrays | 20/20 |
 |[Leetcode - Top Interview 150](https://leetcode.com/studyplan/top-interview-150/)| 9/150 |
 |[Algorithms by Abdul Bari](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)| 12/84 |
@@ -13,6 +13,9 @@
 
 | Questions | Completed | Category | Languages|
 | ------------- | ------------- | ------------- | ------------- |
+| [35-Length of Last Word](https://leetcode.com/problems/length-of-last-word/) |✅  | 📗Easy | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/35-Length%20of%20Last%20Word.png)|
+| [34-Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |✅  | 📗Easy | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/34-Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.png)|
+| [33-Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) |✅  | 📗Easy | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/33-Valid%20Parentheses.png)|
 | [32-Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) |✅  | 📗Easy | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/32-Longest%20Common%20Prefix.png)|
 | [31-Roman to Integer](https://leetcode.com/problems/roman-to-integer/) |✅  | 📗Easy | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/31-Roman%20to%20Integer.png)|
 | [30-Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/) |✅  | 📗Easy | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/30-Max%20Consecutive%20Ones.png)|
