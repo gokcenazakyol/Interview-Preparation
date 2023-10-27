@@ -4,6 +4,7 @@
 
 | Resources | Completed | 
 | ------------- | ------------- |
+| Leetcode - Strings | 2/20 |
 | Leetcode - Arrays | 20/20 |
 |[Leetcode - Top Interview 150](https://leetcode.com/studyplan/top-interview-150/)| 9/150 |
 |[Algorithms by Abdul Bari](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)| 12/84 |
@@ -12,6 +13,8 @@
 
 | Questions | Completed | Category | Languages|
 | ------------- | ------------- | ------------- | ------------- |
+| [32-Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) |✅  | 📗Easy | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/32-Longest%20Common%20Prefix.png)|
+| [31-Roman to Integer](https://leetcode.com/problems/roman-to-integer/) |✅  | 📗Easy | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/31-Roman%20to%20Integer.png)|
 | [30-Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/) |✅  | 📗Easy | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/30-Max%20Consecutive%20Ones.png)|
 | [29-Island Perimeter](https://leetcode.com/problems/island-perimeter/description/) |✅  | 📗Easy | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/29-Island%20Perimeter.png)|
 | [28-Assign Cookies](https://leetcode.com/problems/assign-cookies/description/) |✅  | 📗Easy | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/28-Find%20Content%20Children.png)|
