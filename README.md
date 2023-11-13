@@ -13,6 +13,10 @@
 
 | Questions | Completed | Category | Languages|
 | ------------- | ------------- | ------------- | ------------- |
+| [40-Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) |✅  | 📙Medium | [python]()|
+| [40-Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) |✅  | 📙Medium | [python]()|
+| [39-Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) |✅  | 📙Medium | [python]()|
+| [38-Valid Anagram](https://leetcode.com/problems/valid-anagram/) |✅  | 📗Easy | [python]()|
 | [37-Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) |✅  | 📗Easy | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/37-Linked%20List%20Cycle.png)|
 | [36-Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) |✅  | 📗Easy | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/36-Valid%20Palindrome.png)|
 | [35-Length of Last Word](https://leetcode.com/problems/length-of-last-word/) |✅  | 📗Easy | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/35-Length%20of%20Last%20Word.png)|
