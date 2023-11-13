@@ -6,17 +6,17 @@
 | ------------- | ------------- |
 | Leetcode - Hash Table | 1/20 |
 | Leetcode - Strings | 6/20 |
-| Leetcode - Arrays | 20/20 |
+| Leetcode - Arrays | 24/20 |
 |[Algorithms by Abdul Bari](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)| 12/84 |
 
 
 
 | Questions | Completed | Category | Languages|
 | ------------- | ------------- | ------------- | ------------- |
-| [40-Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) |✅  | 📙Medium | [python]()|
-| [40-Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) |✅  | 📙Medium | [python]()|
-| [39-Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) |✅  | 📙Medium | [python]()|
-| [38-Valid Anagram](https://leetcode.com/problems/valid-anagram/) |✅  | 📗Easy | [python]()|
+| [41-Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) |✅  | 📙Medium | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/41-Product%20of%20Array%20Except%20Self.png)|
+| [40-Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) |✅  | 📙Medium | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/40-Top%20K%20Frequent%20Elements-my%20solution.png) [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/40-Top%20K%20Frequent%20Elements.png)|
+| [39-Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) |✅  | 📙Medium | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/39-Group%20Anagrams.png)|
+| [38-Valid Anagram](https://leetcode.com/problems/valid-anagram/) |✅  | 📗Easy | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/38-Valid%20Anagram.png)|
 | [37-Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) |✅  | 📗Easy | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/37-Linked%20List%20Cycle.png)|
 | [36-Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) |✅  | 📗Easy | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/36-Valid%20Palindrome.png)|
 | [35-Length of Last Word](https://leetcode.com/problems/length-of-last-word/) |✅  | 📗Easy | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/35-Length%20of%20Last%20Word.png)|
