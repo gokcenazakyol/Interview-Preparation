@@ -5,14 +5,16 @@
 | Resources | Completed | 
 | ------------- | ------------- |
 | Leetcode - Hash Table | 1/20 |
-| Leetcode - Strings | 6/20 |
-| Leetcode - Arrays | 24/20 |
+| Leetcode - Strings | 7/20 |
+| Leetcode - Arrays | 25/20 |
 |[Algorithms by Abdul Bari](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)| 12/84 |
 
 
 
 | Questions | Completed | Category | Languages|
 | ------------- | ------------- | ------------- | ------------- |
+| [43-Encode and Decode Strings](https://www.lintcode.com/problem/659/) |✅  | 📙Medium | [python]()|
+| [42-Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) |✅  | 📙Medium | [python]()|
 | [41-Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) |✅  | 📙Medium | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/41-Product%20of%20Array%20Except%20Self.png)|
 | [40-Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) |✅  | 📙Medium | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/40-Top%20K%20Frequent%20Elements-my%20solution.png) [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/40-Top%20K%20Frequent%20Elements.png)|
 | [39-Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) |✅  | 📙Medium | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/39-Group%20Anagrams.png)|
