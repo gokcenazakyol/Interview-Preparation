@@ -13,8 +13,8 @@
 
 | Questions | Completed | Category | Languages|
 | ------------- | ------------- | ------------- | ------------- |
-| [43-Encode and Decode Strings](https://www.lintcode.com/problem/659/) |✅  | 📙Medium | [python]()|
-| [42-Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) |✅  | 📙Medium | [python]()|
+| [43-Encode and Decode Strings](https://www.lintcode.com/problem/659/) |✅  | 📙Medium | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/43-Encode%20and%20Decode%20Strings.png)|
+| [42-Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) |✅  | 📙Medium | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/42-Valid%20Sudoku.png)|
 | [41-Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) |✅  | 📙Medium | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/41-Product%20of%20Array%20Except%20Self.png)|
 | [40-Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) |✅  | 📙Medium | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/40-Top%20K%20Frequent%20Elements-my%20solution.png) [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/40-Top%20K%20Frequent%20Elements.png)|
 | [39-Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) |✅  | 📙Medium | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/39-Group%20Anagrams.png)|
