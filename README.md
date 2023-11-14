@@ -13,6 +13,7 @@
 
 | Questions | Completed | Category | Languages|
 | ------------- | ------------- | ------------- | ------------- |
+| [44-Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) |✅  | 📙Medium | [python]() [python]()|
 | [43-Encode and Decode Strings](https://www.lintcode.com/problem/659/) |✅  | 📙Medium | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/43-Encode%20and%20Decode%20Strings.png)|
 | [42-Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) |✅  | 📙Medium | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/42-Valid%20Sudoku.png)|
 | [41-Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) |✅  | 📙Medium | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/41-Product%20of%20Array%20Except%20Self.png)|
