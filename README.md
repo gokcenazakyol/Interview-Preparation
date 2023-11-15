@@ -10,6 +10,10 @@
 
 | Questions | Completed | Category | Languages|
 | ------------- | ------------- | ------------- | ------------- |
+| [48-Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) |✅  | 📕Hard | [python]()|
+| [47-Container With Most Water](https://leetcode.com/problems/container-with-most-water/) |✅  | 📙Medium | [python]()|
+| [46-3Sum](https://leetcode.com/problems/3sum/description/) |✅  | 📙Medium | [python]()|
+| [45-Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) |✅  | 📙Medium | [python]()|
 | [44-Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) |✅  | 📙Medium | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/44-Longest%20Consecutive%20Sequence.png) [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/44-Longest%20Consecutive%20Sequence2.png)|
 | [43-Encode and Decode Strings](https://www.lintcode.com/problem/659/) |✅  | 📙Medium | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/43-Encode%20and%20Decode%20Strings.png)|
 | [42-Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) |✅  | 📙Medium | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/42-Valid%20Sudoku.png)|
