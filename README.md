@@ -4,7 +4,7 @@
 
 | Resources | Completed | 
 | ------------- | ------------- |
-|[Leetcode](https://leetcode.com)| 48/? |
+|[Leetcode](https://leetcode.com)| 52/? |
 |[Algorithms by Abdul Bari](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)| 17/84 |
 
 
@@ -12,6 +12,9 @@
 
 | Questions | Completed | Category | Languages|
 | ------------- | ------------- | ------------- | ------------- |
+| [51- Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/) |✅  | 📙Medium | [python]()|
+| [50-Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |✅  | 📙Medium | [python]()|
+| [49-Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) |✅  | 📗Easy | [python]()|
 | [48-Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) |✅  | 📕Hard | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/48-Trapping%20Rain%20Water.png)|
 | [47-Container With Most Water](https://leetcode.com/problems/container-with-most-water/) |✅  | 📙Medium | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/47-Container%20With%20Most%20Water.png)|
 | [46-3Sum](https://leetcode.com/problems/3sum/description/) |✅  | 📙Medium | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/46-3Sum.png)|
