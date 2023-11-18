@@ -4,7 +4,7 @@
 
 | Resources | Completed | 
 | ------------- | ------------- |
-|[Leetcode](https://leetcode.com)| 52/? |
+|[Leetcode](https://leetcode.com)| 53/? |
 |[Algorithms by Abdul Bari](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)| 26/84 |
 
 
@@ -12,6 +12,7 @@
 
 | Questions | Completed | Category | Languages|
 | ------------- | ------------- | ------------- | ------------- |
+| [53-Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) |✅  | 📕Hard | [python]()|
 | [52-Permutation in String](https://leetcode.com/problems/permutation-in-string/description/) |✅  | 📙Medium | [python]()|
 | [51-Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/) |✅  | 📙Medium | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/51-Longest%20Repeating%20Character%20Replacement.png)|
 | [50-Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |✅  | 📙Medium | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/50-Longest%20Substring%20Without%20Repeating%20Characters.png)|
