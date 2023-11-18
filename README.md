@@ -12,8 +12,8 @@
 
 | Questions | Completed | Category | Languages|
 | ------------- | ------------- | ------------- | ------------- |
-| [53-Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) |✅  | 📕Hard | [python]()|
-| [52-Permutation in String](https://leetcode.com/problems/permutation-in-string/description/) |✅  | 📙Medium | [python]()|
+| [53-Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) |✅  | 📕Hard | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/53-Minimum%20Window%20Substring.png)|
+| [52-Permutation in String](https://leetcode.com/problems/permutation-in-string/description/) |✅  | 📙Medium | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/52-Permutation%20in%20String.png)|
 | [51-Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/) |✅  | 📙Medium | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/51-Longest%20Repeating%20Character%20Replacement.png)|
 | [50-Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |✅  | 📙Medium | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/50-Longest%20Substring%20Without%20Repeating%20Characters.png)|
 | [49-Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) |✅  | 📗Easy | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/49-Best%20Time%20to%20Buy%20and%20Sell%20Stock.png)|
