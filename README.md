@@ -8,10 +8,10 @@
 |[Algorithms by Abdul Bari](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)| 26/84 |
 
 
-
-
 | Questions | Completed | Category | Languages|
 | ------------- | ------------- | ------------- | ------------- |
+| [55-Min Stack](https://leetcode.com/problems/min-stack/description/) |✅  | 📙Medium | [python]()|
+| [54-Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/) |✅  | 📕Hard | [python]()|
 | [53-Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) |✅  | 📕Hard | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/53-Minimum%20Window%20Substring.png)|
 | [52-Permutation in String](https://leetcode.com/problems/permutation-in-string/description/) |✅  | 📙Medium | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/52-Permutation%20in%20String.png)|
 | [51-Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/) |✅  | 📙Medium | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/51-Longest%20Repeating%20Character%20Replacement.png)|
