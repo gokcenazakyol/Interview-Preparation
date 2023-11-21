@@ -4,12 +4,15 @@
 
 | Resources | Completed | 
 | ------------- | ------------- |
-|[Leetcode](https://leetcode.com)| 55/? |
+|[Leetcode](https://leetcode.com)| 58/? |
 |[Algorithms by Abdul Bari](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)| 26/84 |
 
 
 | Questions | Completed | Category | Languages|
 | ------------- | ------------- | ------------- | ------------- |
+| [58-Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/) |✅  | 📙Medium | [python]()|
+| [57-Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) |✅  | 📙Medium | [python]()|
+| [56-Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) |✅  | 📙Medium | [python]()|
 | [55-Min Stack](https://leetcode.com/problems/min-stack/description/) |✅  | 📙Medium | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/55-Min%20Stack.png)|
 | [54-Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/) |✅  | 📕Hard | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/54-Sliding%20Window%20Maximum.png)|
 | [53-Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) |✅  | 📕Hard | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/53-Minimum%20Window%20Substring.png)|
