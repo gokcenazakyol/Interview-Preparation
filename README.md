@@ -10,8 +10,8 @@
 
 | Questions | Completed | Category | Languages|
 | ------------- | ------------- | ------------- | ------------- |
-| [58-Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/) |✅  | 📙Medium | [python]()|
-| [57-Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) |✅  | 📙Medium | [python]()|
+| [58-Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/) |✅  | 📙Medium | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/58-Daily%20Temperatures.png)|
+| [57-Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) |✅  | 📙Medium | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/57-Generate%20Parentheses.png)|
 | [56-Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) |✅  | 📙Medium | [python]()|
 | [55-Min Stack](https://leetcode.com/problems/min-stack/description/) |✅  | 📙Medium | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/55-Min%20Stack.png)|
 | [54-Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/) |✅  | 📕Hard | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/54-Sliding%20Window%20Maximum.png)|
