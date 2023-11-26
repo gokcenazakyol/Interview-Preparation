@@ -10,6 +10,11 @@
 
 | Questions | Completed | Category | Languages|
 | ------------- | ------------- | ------------- | ------------- |
+| [62-Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/) |✅  | 📙Medium | [python]()|
+| [62-Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) |✅  | 📙Medium | [python]()|
+| [61-Binary Search](https://leetcode.com/problems/binary-search/) |✅  | 📗Easy | [python]()|
+| [60-Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/) |✅  | 📕Hard | [python]()|
+| [59-Car Fleet](https://leetcode.com/problems/car-fleet/description/) |✅  | 📙Medium | [python]()|
 | [58-Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/) |✅  | 📙Medium | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/58-Daily%20Temperatures.png)|
 | [57-Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) |✅  | 📙Medium | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/57-Generate%20Parentheses.png)|
 | [56-Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) |✅  | 📙Medium | [python]()|
