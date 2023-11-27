@@ -10,14 +10,15 @@
 
 | Questions | Completed | Category | Languages|
 | ------------- | ------------- | ------------- | ------------- |
-Search in Rotated Sorted Array
-| [65-Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) |✅  | 📙Medium | [python]()|
-| [64-Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) |✅  | 📙Medium | [python]()|
-| [63-Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/) |✅  | 📙Medium | [python]()|
-| [62-Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) |✅  | 📙Medium | [python]()|
-| [61-Binary Search](https://leetcode.com/problems/binary-search/) |✅  | 📗Easy | [python]()|
-| [60-Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/) |✅  | 📕Hard | [python]()|
-| [59-Car Fleet](https://leetcode.com/problems/car-fleet/description/) |✅  | 📙Medium | [python]()|
+| [67-Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) |✅  | 📕Hard | [python]()|
+| [66-Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) |✅  | 📙Medium | [python]()|
+| [65-Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) |✅  | 📙Medium | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/65-Search%20in%20Rotated%20Sorted%20Array.png)|
+| [64-Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) |✅  | 📙Medium | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/64-Find%20Minimum%20in%20Rotated%20Sorted%20Array.png)|
+| [63-Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/) |✅  | 📙Medium | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/63-Koko%20Eating%20Bananas.png)|
+| [62-Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) |✅  | 📙Medium | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/62-Search%20a%202D%20Matrix.png)|
+| [61-Binary Search](https://leetcode.com/problems/binary-search/) |✅  | 📗Easy | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/61-Binary%20Search.png)|
+| [60-Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/) |✅  | 📕Hard | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/60-Largest%20Rectangle%20in%20Histogram.png)|
+| [59-Car Fleet](https://leetcode.com/problems/car-fleet/description/) |✅  | 📙Medium | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/59-Car%20Fleet.png)|
 | [58-Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/) |✅  | 📙Medium | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/58-Daily%20Temperatures.png)|
 | [57-Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) |✅  | 📙Medium | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/57-Generate%20Parentheses.png)|
 | [56-Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) |✅  | 📙Medium | [python]()|
