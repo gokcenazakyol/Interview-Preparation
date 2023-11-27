@@ -10,7 +10,10 @@
 
 | Questions | Completed | Category | Languages|
 | ------------- | ------------- | ------------- | ------------- |
-| [62-Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/) |✅  | 📙Medium | [python]()|
+Search in Rotated Sorted Array
+| [65-Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) |✅  | 📙Medium | [python]()|
+| [64-Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) |✅  | 📙Medium | [python]()|
+| [63-Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/) |✅  | 📙Medium | [python]()|
 | [62-Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) |✅  | 📙Medium | [python]()|
 | [61-Binary Search](https://leetcode.com/problems/binary-search/) |✅  | 📗Easy | [python]()|
 | [60-Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/) |✅  | 📕Hard | [python]()|
