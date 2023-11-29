@@ -4,12 +4,16 @@
 
 | Resources | Completed | 
 | ------------- | ------------- |
-|[Leetcode](https://leetcode.com)| 58/? |
+|[Leetcode](https://leetcode.com)| 71/? |
 |[Algorithms by Abdul Bari](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)| 26/84 |
 
 
 | Questions | Completed | Category | Languages|
 | ------------- | ------------- | ------------- | ------------- |
+| [71-Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) |✅  | 📙Medium | [python]()|
+| [70-Reorder List](https://leetcode.com/problems/reorder-list/description/) |✅  | 📙Medium | [python]()|
+| [69- Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) |✅  | 📗Easy | [python]()|
+| [68-Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) |✅  | 📗Easy | [python]()|
 | [67-Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) |✅  | 📕Hard | [python]()|
 | [66-Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) |✅  | 📙Medium | [python]()|
 | [65-Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) |✅  | 📙Medium | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/65-Search%20in%20Rotated%20Sorted%20Array.png)|
