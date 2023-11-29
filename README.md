@@ -10,12 +10,12 @@
 
 | Questions | Completed | Category | Languages|
 | ------------- | ------------- | ------------- | ------------- |
-| [71-Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) |✅  | 📙Medium | [python]()|
-| [70-Reorder List](https://leetcode.com/problems/reorder-list/description/) |✅  | 📙Medium | [python]()|
-| [69- Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) |✅  | 📗Easy | [python]()|
-| [68-Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) |✅  | 📗Easy | [python]()|
-| [67-Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) |✅  | 📕Hard | [python]()|
-| [66-Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) |✅  | 📙Medium | [python]()|
+| [71-Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) |✅  | 📙Medium | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/71-Remove%20Nth%20Node%20From%20End%20of%20List.png)|
+| [70-Reorder List](https://leetcode.com/problems/reorder-list/description/) |✅  | 📙Medium | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/70-Reorder%20List.png)|
+| [69- Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) |✅  | 📗Easy | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/69-Merge%20Two%20Sorted%20Lists.png)|
+| [68-Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) |✅  | 📗Easy | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/68-Reverse%20Linked%20List.png)|
+| [67-Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) |✅  | 📕Hard | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/67-Median%20of%20Two%20Sorted%20Arrays.png)|
+| [66-Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) |✅  | 📙Medium | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/66-Time%20Based%20Key-Value%20Store.png)|
 | [65-Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) |✅  | 📙Medium | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/65-Search%20in%20Rotated%20Sorted%20Array.png)|
 | [64-Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) |✅  | 📙Medium | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/64-Find%20Minimum%20in%20Rotated%20Sorted%20Array.png)|
 | [63-Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/) |✅  | 📙Medium | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/63-Koko%20Eating%20Bananas.png)|
