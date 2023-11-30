@@ -4,12 +4,16 @@
 
 | Resources | Completed | 
 | ------------- | ------------- |
-|[Leetcode](https://leetcode.com)| 71/? |
-|[Algorithms by Abdul Bari](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)| 26/84 |
+|[Leetcode](https://leetcode.com)| 75/? |
+|[Algorithms by Abdul Bari](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)| 32/84 |
 
 
 | Questions | Completed | Category | Languages|
 | ------------- | ------------- | ------------- | ------------- |
+| [74-LRU Cache](https://leetcode.com/problems/find-the-duplicate-number/description/) |✅  | 📙Medium | [python]()|
+| [74-Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) |✅  | 📙Medium | [python]()|
+| [73-Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) |✅  | 📙Medium | [python]()|
+| [72-Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/) |✅  | 📙Medium | [python]()|
 | [71-Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) |✅  | 📙Medium | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/71-Remove%20Nth%20Node%20From%20End%20of%20List.png)|
 | [70-Reorder List](https://leetcode.com/problems/reorder-list/description/) |✅  | 📙Medium | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/70-Reorder%20List.png)|
 | [69- Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) |✅  | 📗Easy | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/69-Merge%20Two%20Sorted%20Lists.png)|
