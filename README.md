@@ -5,18 +5,18 @@
 | Resources | Completed | 
 | ------------- | ------------- |
 |[Leetcode](https://leetcode.com)| 75/? |
-|[Algorithms by Abdul Bari](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)| 32/84 |
+|[Algorithms by Abdul Bari](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)| 38/84 |
 
 
 | Questions | Completed | Category | Languages|
 | ------------- | ------------- | ------------- | ------------- |
-| [78-Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) |✅  | 📗Easy | [python]()|
-| [77-Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) |✅  | 📕Hard | [python]()|
-| [76-Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) |✅  | 📕Hard | [python]()|
-| [75-LRU Cache](https://leetcode.com/problems/find-the-duplicate-number/description/) |✅  | 📙Medium | [python]()|
-| [74-Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) |✅  | 📙Medium | [python]()|
-| [73-Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) |✅  | 📙Medium | [python]()
-| [72-Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/) |✅  | 📙Medium | [python]()|
+| [78-Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) |✅  | 📗Easy | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/78-Invert%20Binary%20Tree.png)|
+| [77-Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) |✅  | 📕Hard | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/77-Reverse%20Nodes%20in%20k-Group.png)|
+| [76-Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) |✅  | 📕Hard | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/76-Merge%20k%20Sorted%20Lists.png)|
+| [75-LRU Cache](https://leetcode.com/problems/find-the-duplicate-number/description/) |✅  | 📙Medium | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/75-LRU%20Cache.png)|
+| [74-Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) |✅  | 📙Medium | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/74-Find%20the%20Duplicate%20Number.png)|
+| [73-Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) |✅  | 📙Medium | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/73-Add%20Two%20Numbers.png)
+| [72-Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/) |✅  | 📙Medium | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/72-Copy%20List%20with%20Random%20Pointer.png)|
 | [71-Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) |✅  | 📙Medium | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/71-Remove%20Nth%20Node%20From%20End%20of%20List.png)|
 | [70-Reorder List](https://leetcode.com/problems/reorder-list/description/) |✅  | 📙Medium | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/70-Reorder%20List.png)|
 | [69- Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) |✅  | 📗Easy | [python](https://github.com/gokcenazakyol/Interview-Preparation/blob/main/solutions/69-Merge%20Two%20Sorted%20Lists.png)|
